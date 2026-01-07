@@ -1,4 +1,4 @@
-package lab7;
+package lab6;
 
 public class Account {
     private int id;
