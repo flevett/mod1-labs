@@ -1,4 +1,4 @@
-package orderStatusEnum;
+package lab9_orderStatusEnum;
 
 public class Order {
 

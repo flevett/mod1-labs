@@ -1,4 +1,4 @@
-package oo2;
+package lab8_oo2;
 
 public class Ball {
     // Public fields for position and size

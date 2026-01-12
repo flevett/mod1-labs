@@ -1,4 +1,4 @@
-package oo2;
+package lab8_oo2;
 
 import java.awt.*;
 import java.awt.event.*;
